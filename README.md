@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @fzaidi96
-- 😄 Pronouns: she/her
 - 👀 I’m interested in product development, UI/UX design, personalisation and automation! 
 - 🌱 I’m currently learning Next.JS and about to get started on Python!
 - 📫 How to reach me: drop me an email on f.zaidi182@gmail.com or send me a DM on [LinkedIn](https://www.linkedin.com/in/fatima-zaidi-a46558146/)
